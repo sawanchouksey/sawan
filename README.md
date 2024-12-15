@@ -12,7 +12,7 @@ I mostly work with Python, DevOps and Cloud based technologies. 🚀
 
 <p float="left">
   <a href="https://en.wikipedia.org/wiki/CI/CD" target="_blank" >
-    <img src="https://miro.medium.com/v2/resize:fit:1400/1*1mYyliE8xO9v1xoAqmfHtA.gif" height="80" />
+    <img src="https://miro.medium.com/v2/resize:fit:1400/1*1mYyliE8xO9v1xoAqmfHtA.gif" height="150" />
   </a>
  </p>
 
