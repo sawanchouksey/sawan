@@ -59,21 +59,21 @@ I mostly work with Python, DevOps and Cloud based technologies. 🚀
 ### Databases and Monitoring
   
   <a href="https://prometheus.io/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/prometheus.gif" height="100" />
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/prometheus.gif" height="80" />
   </a>
   <a href="https://www.influxdata.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/influxdata.gif" height="100" />
+    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/influxdata.gif" height="80" />
   </a>
     <a href="https://www.postgresql.org" target="_blank" >
-    <img src="https://www.postgresql.org/media/img/about/press/elephant.png" height="100" />
+    <img src="https://www.postgresql.org/media/img/about/press/elephant.png" height="80" />
   </a>
   </a>
     <a href="https://grafana.com/" target="_blank" >
-    <img src="https://www.kindpng.com/picc/m/715-7156771_grafana-png-grafana-logo-transparent-png.png" height="100" />
+    <img src="https://www.kindpng.com/picc/m/715-7156771_grafana-png-grafana-logo-transparent-png.png" height="80" />
   </a>
   </a>
     <a href="https://sawan22071995.github.io/notes/#/Monitoring/Elasticsearch+Logstash+filebeat+Kibana" target="_blank" >
-    <img src="https://miro.medium.com/v2/resize:fit:1400/1*d0sFbYXssunZcZuEYVCKbg.gif" height="170" />
+    <img src="https://miro.medium.com/v2/resize:fit:1400/1*d0sFbYXssunZcZuEYVCKbg.gif" height="150" />
   </a>
   
 </p>
