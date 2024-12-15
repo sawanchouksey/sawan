@@ -12,7 +12,7 @@ I mostly work with Python, DevOps and Cloud based technologies. 🚀
 
 <p float="left">
   <a href="https://en.wikipedia.org/wiki/CI/CD" target="_blank" >
-    <img src="https://miro.medium.com/v2/resize:fit:1400/1*1mYyliE8xO9v1xoAqmfHtA.gif" height="150" />
+    <img src="https://miro.medium.com/v2/resize:fit:1400/1*1mYyliE8xO9v1xoAqmfHtA.gif" height="500" />
   </a>
  </p>
 
@@ -77,7 +77,7 @@ I mostly work with Python, DevOps and Cloud based technologies. 🚀
   </a>
   </a>
     <a href="https://sawan22071995.github.io/notes/#/Monitoring/Elasticsearch+Logstash+filebeat+Kibana" target="_blank" >
-    <img src="https://miro.medium.com/v2/resize:fit:1400/1*d0sFbYXssunZcZuEYVCKbg.gif" height="60" />
+    <img src="https://miro.medium.com/v2/resize:fit:1400/1*d0sFbYXssunZcZuEYVCKbg.gif" height="200" />
   </a>
   
 </p>
