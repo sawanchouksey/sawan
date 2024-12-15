@@ -72,10 +72,6 @@ I mostly work with Python, DevOps and Cloud based technologies. 🚀
     <img src="https://www.kindpng.com/picc/m/715-7156771_grafana-png-grafana-logo-transparent-png.png" height="100" />
   </a>
   </a>
-    <a href="https://www.mongodb.com/" target="_blank" >
-    <img src="https://www.logolynx.com/images/logolynx/cf/cf72126a3551b816d617a06ffb01388b.png" height="100" />
-  </a>
-  </a>
     <a href="https://sawan22071995.github.io/notes/#/Monitoring/Elasticsearch+Logstash+filebeat+Kibana" target="_blank" >
     <img src="https://miro.medium.com/v2/resize:fit:1400/1*d0sFbYXssunZcZuEYVCKbg.gif" height="200" />
   </a>
