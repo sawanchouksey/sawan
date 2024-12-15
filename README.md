@@ -73,7 +73,7 @@ I mostly work with Python, DevOps and Cloud based technologies. 🚀
   </a>
   </a>
     <a href="https://sawan22071995.github.io/notes/#/Monitoring/Elasticsearch+Logstash+filebeat+Kibana" target="_blank" >
-    <img src="https://miro.medium.com/v2/resize:fit:1400/1*d0sFbYXssunZcZuEYVCKbg.gif" height="200" />
+    <img src="https://miro.medium.com/v2/resize:fit:1400/1*d0sFbYXssunZcZuEYVCKbg.gif" height="170" />
   </a>
   
 </p>
